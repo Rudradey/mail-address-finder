@@ -38,19 +38,28 @@ Usage
 3.The script will process the URL and extract email addresses from the website. The results will be displayed on the console.
 
 
+
 Dependencies
+
   .BeautifulSoup
   .Requests
+
   
 Configuration
+
    No additional configuration is required. However, you may customize
    the script as needed for your specific use case.
 
 
 Contributing
 If you'd like to contribute to this project, please follow these steps:   
+
   1.Fork the repository
+  
   2.Create a new branch (git checkout -b feature/your-feature)
+  
   3.Make your changes and commit them (git commit -am 'Add some feature')
+  
   4.Push to the branch (git push origin feature/your-feature)
+  
   5.Create a new Pull Request
